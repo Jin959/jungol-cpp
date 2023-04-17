@@ -24,5 +24,14 @@
     <ClCompile Include="p1307-문자사각형1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p1314-문자사각형2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p1338-문자삼각형1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p1339-문자삼각형2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
