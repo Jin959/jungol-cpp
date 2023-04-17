@@ -3,7 +3,7 @@
 
 using namespace std;
 
-float n;
+int n;
 char v;
 char arr[100][100];
 
@@ -19,7 +19,7 @@ void print() {
 
 int main() {
 	cin >> n;
-	if (n > 100 || n == 0 || (int)n%2 == 0) {
+	if (n > 100 || n < 1 || n%2 == 0) {
 		cout << "INPUT ERROR";
 		return 0;
 	}
