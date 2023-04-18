@@ -9,7 +9,7 @@ int n;
 
 void print() {
 	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < n; j++) {
+		for (int j = 0; j < n * 2; j++) {
 			if (!arr[i][j]) continue;
 			cout << arr[i][j];
 		}
@@ -36,12 +36,12 @@ int main() {
 		}
 	}
 	for (int y = n / 2; y < n; y++) {
-		// y = - x + n
-		for (int x = 0; x < n - y - 1; x++) {
+		// y = - x + n-1
+		for (int x = 0; x < n - 1 - y; x++) {
 			arr[y][x] = ' ';
 		}
-		// y, x : 6, 0 -> 5, 3 -> 4, 6 ... y = - x / 3 + n
-		for (int x = n - y - 1; x < 3 * (n - y); x++) {
+		// y, x : 6, 0 -> 5, 3 -> 4, 6 ... y = - x / 3 + n-1
+		for (int x = n - 1 - y; x <= 3 * (n - 1 - y); x++) {
 			arr[y][x] = '*';
 		}
 	}
