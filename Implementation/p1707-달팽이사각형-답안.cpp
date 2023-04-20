@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int arr[MAXN + 1][MAXN + 1];
+int arr[MAXN + 2][MAXN + 2];
 int n;
 
 // 바람개비 모양으로 채워진다.
@@ -18,7 +18,6 @@ void makeFence() {
 }
 
 void snail() {
-	int i;
 	int y = 1, x = 0, cnt = 1;
 
 	while (cnt <= n * n) {

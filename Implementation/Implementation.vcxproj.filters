@@ -51,5 +51,8 @@
     <ClCompile Include="p1707-달팽이사각형-답안.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p5397-달팽이사각형-reversed.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
