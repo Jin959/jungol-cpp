@@ -39,5 +39,8 @@
     <ClCompile Include="p1183-동전자판기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p2461-공주님의정원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
