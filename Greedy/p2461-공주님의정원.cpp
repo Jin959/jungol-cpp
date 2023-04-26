@@ -55,7 +55,7 @@ Date lb = { 3, 1 };
 Date ub = { 11, 30 };
 bool impossible = false;
 
-// 이 정렬 기준에 따라 Line 155~165 부분에서  엣지 케이스가 걸리는 것 같은데 반례를 못찾겠다.
+// 이 정렬 기준에 따라 Line 140~150 부분에서  엣지 케이스가 걸리는 것 같은데 반례를 못찾겠다.
 // 95%에서 걸림
 //bool comp(Flower l, Flower r) {
 //	return l.bloom < r.bloom;
