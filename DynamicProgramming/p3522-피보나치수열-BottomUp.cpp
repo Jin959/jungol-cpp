@@ -11,10 +11,13 @@ int main() {
 	cin >> n;
 
 	for (int i = 1; i <= n; i++) {
+		// 초항
 		if (i == 1 || i == 2) {
 			DT[i] = 1;
 			continue;
 		}
+
+		// 점화식
 		DT[i] = (DT[i - 1] + DT[i - 2]) % (int)(10e8 + 7);
 	}
 	

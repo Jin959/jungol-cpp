@@ -28,8 +28,10 @@ int dfs(int lv) {
 		return DT[lv];
 	}
 
+	// base condition
 	if (lv == 1) return DT[1];
 
+	// 점화식
 	return DT[lv] = (dfs(lv - 1) + dfs(lv - 2)) % (int)(10e8 + 7);
 }
 
@@ -37,6 +39,7 @@ int main() {
 	int n;
 	cin >> n;
 
+	// 초항
 	DT[2] = DT[1] = 1;
 	cout << dfs(n);
 
