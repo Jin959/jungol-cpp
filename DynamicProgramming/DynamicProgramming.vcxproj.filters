@@ -27,7 +27,7 @@
     <ClCompile Include="p1848-극장좌석.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="극장좌석 tmp.cpp">
+    <ClCompile Include="p1407-숫자카드.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
