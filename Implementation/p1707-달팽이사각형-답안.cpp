@@ -1,5 +1,7 @@
 // 배열의 out of range 때문에 1로 다채운 뒤 loop으로만 돌린다.
 
+// 더 나아가서 visited[][]와 isOut()을 사용하면 makeFence()가 없어도 된다.
+
 #include <iostream>
 
 #define MAXN 100

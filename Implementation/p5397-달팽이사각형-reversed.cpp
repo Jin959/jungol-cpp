@@ -1,3 +1,5 @@
+// 더 나아가서 visited[][]와 isOut()을 사용하면 makeFence()가 없어도 된다.
+
 #include <iostream>
 
 #define MAXN 100

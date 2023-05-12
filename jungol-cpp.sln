@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greedy", "Greedy\Greedy.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.vcxproj", "{D3DD3735-CA0D-447F-B634-C30A3D5BB917}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphDFS", "GraphDFS\GraphDFS.vcxproj", "{895CD00A-C281-41AC-93DE-544AB8797C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{D3DD3735-CA0D-447F-B634-C30A3D5BB917}.Release|x64.Build.0 = Release|x64
 		{D3DD3735-CA0D-447F-B634-C30A3D5BB917}.Release|x86.ActiveCfg = Release|Win32
 		{D3DD3735-CA0D-447F-B634-C30A3D5BB917}.Release|x86.Build.0 = Release|Win32
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Debug|x64.ActiveCfg = Debug|x64
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Debug|x64.Build.0 = Debug|x64
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Debug|x86.Build.0 = Debug|Win32
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Release|x64.ActiveCfg = Release|x64
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Release|x64.Build.0 = Release|x64
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Release|x86.ActiveCfg = Release|Win32
+		{895CD00A-C281-41AC-93DE-544AB8797C2D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
