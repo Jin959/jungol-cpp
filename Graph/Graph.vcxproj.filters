@@ -18,5 +18,11 @@
     <ClCompile Include="p3118-최단경로2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p1863-종교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p1060-최소비용신장트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
