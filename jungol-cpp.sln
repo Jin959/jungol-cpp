@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph", "Graph\Graph.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.vcxproj", "{13D804F3-3CE5-4078-A62D-2422E7520853}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphBFS", "GraphBFS\GraphBFS.vcxproj", "{7F382711-BE8C-427A-8AF4-9DED012224F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{13D804F3-3CE5-4078-A62D-2422E7520853}.Release|x64.Build.0 = Release|x64
 		{13D804F3-3CE5-4078-A62D-2422E7520853}.Release|x86.ActiveCfg = Release|Win32
 		{13D804F3-3CE5-4078-A62D-2422E7520853}.Release|x86.Build.0 = Release|Win32
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Debug|x64.ActiveCfg = Debug|x64
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Debug|x64.Build.0 = Debug|x64
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Debug|x86.Build.0 = Debug|Win32
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Release|x64.ActiveCfg = Release|x64
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Release|x64.Build.0 = Release|x64
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Release|x86.ActiveCfg = Release|Win32
+		{7F382711-BE8C-427A-8AF4-9DED012224F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
