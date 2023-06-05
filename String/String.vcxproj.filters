@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="p2514-문자열찾기.cpp">
+    <ClCompile Include="p2514-문자열찾기-count.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="p2604-그릇.cpp">
@@ -24,7 +24,10 @@
     <ClCompile Include="p2857-세로읽기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="p4987-String자료형-금지어제거.cpp">
+    <ClCompile Include="p4987-String자료형-erase.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p5349-SubString-split.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
