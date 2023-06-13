@@ -42,5 +42,8 @@
     <ClCompile Include="p2461-공주님의정원.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p2641-택배.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
