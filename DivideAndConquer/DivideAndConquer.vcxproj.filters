@@ -21,10 +21,13 @@
     <ClCompile Include="p1240-제곱근.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="p5170-나무꾼미르코.cpp">
+    <ClCompile Include="p5170-나무꾼미르코-Decision-LowerBoundary.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="p1092-제곱수출력-ModularExponentiation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p5805-확률-Decision-UpperBoundary.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
