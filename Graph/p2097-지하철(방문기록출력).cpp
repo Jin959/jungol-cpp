@@ -36,6 +36,7 @@ void init() {
 
 void dijkstra(int start) {
 	pq.push({ start, 0 });
+	dist[start] = 0;
 
 	while (!pq.empty()) {
 		Node now = pq.top();
