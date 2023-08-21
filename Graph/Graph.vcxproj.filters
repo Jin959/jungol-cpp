@@ -27,5 +27,8 @@
     <ClCompile Include="p2097-지하철%28방문기록출력%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p1855-모이기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
