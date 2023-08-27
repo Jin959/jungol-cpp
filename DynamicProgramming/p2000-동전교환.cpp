@@ -1,4 +1,4 @@
-// https://www.jungol.co.kr/problem/3521
+// https://www.jungol.co.kr/problem/2000
 
 /*
 * DP의 대표적인 CC(Coin Change) 문제이다.
