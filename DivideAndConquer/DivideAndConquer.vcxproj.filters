@@ -30,5 +30,8 @@
     <ClCompile Include="p5805-확률-Decision-UpperBoundary.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p4791-숫자구슬easy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

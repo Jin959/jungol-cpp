@@ -136,10 +136,13 @@
     <ClCompile Include="p3517-이진탐색-BinarySearch.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="p4791-숫자구슬easy.cpp" />
     <ClCompile Include="p5170-나무꾼미르코-Decision-LowerBoundary.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="p5805-확률-Decision-UpperBoundary.cpp" />
+    <ClCompile Include="p5805-확률-Decision-UpperBoundary.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
