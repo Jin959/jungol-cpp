@@ -39,5 +39,8 @@
     <ClCompile Include="p2000-동전교환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p1077-배낭채우기1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
