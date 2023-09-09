@@ -1,3 +1,8 @@
+/*
+* 종료 조건을 isEnd() 함수처럼 사방이 이미 기록되었는지 다 확인할 필요 없이
+* cnt == n * n 일 때 종료하면 된다.
+*/
+
 #include <iostream>
 
 #define MAXN 100
