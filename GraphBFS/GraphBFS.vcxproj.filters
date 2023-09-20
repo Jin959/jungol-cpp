@@ -21,5 +21,8 @@
     <ClCompile Include="p1078-저글링방사능오염.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p1462-보물섬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
