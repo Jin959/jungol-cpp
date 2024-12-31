@@ -24,5 +24,8 @@
     <ClCompile Include="p1462-보물섬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p1082-화염에서탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

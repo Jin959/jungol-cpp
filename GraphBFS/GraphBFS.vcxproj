@@ -130,7 +130,10 @@
     <ClCompile Include="p1078-저글링방사능오염.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="p1462-보물섬.cpp" />
+    <ClCompile Include="p1082-화염에서탈출.cpp" />
+    <ClCompile Include="p1462-보물섬.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="p4189-장기2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
